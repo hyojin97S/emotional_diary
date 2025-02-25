@@ -40,5 +40,5 @@
     "sass": "^1.83.4",
     "sass-loader": "^16.0.4"
   },
-  "homepage" : "https://hyojin97S.github.io/emotional_diary"
+  "homepage" : "."
 }
