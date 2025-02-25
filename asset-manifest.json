@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.352f02b5.css",
-    "main.js": "./static/js/main.798787e9.js",
-    "static/media/emotion1.png": "./static/media/emotion1.e538d019b9774914533e.png",
-    "static/media/emotion5.png": "./static/media/emotion5.3714bc1eec310d15a728.png",
-    "static/media/emotion4.png": "./static/media/emotion4.816572ae4b73f0ff9fdf.png",
-    "static/media/emotion2.png": "./static/media/emotion2.9cc3c4790f386b49d3ce.png",
-    "static/media/emotion3.png": "./static/media/emotion3.cbb24cb66c9812687d00.png",
-    "index.html": "./index.html",
-    "main.352f02b5.css.map": "./static/css/main.352f02b5.css.map",
-    "main.798787e9.js.map": "./static/js/main.798787e9.js.map"
+    "main.css": "/emotional_diary/static/css/main.352f02b5.css",
+    "main.js": "/emotional_diary/static/js/main.8822de0f.js",
+    "static/media/emotion1.png": "/emotional_diary/static/media/emotion1.e538d019b9774914533e.png",
+    "static/media/emotion5.png": "/emotional_diary/static/media/emotion5.3714bc1eec310d15a728.png",
+    "static/media/emotion4.png": "/emotional_diary/static/media/emotion4.816572ae4b73f0ff9fdf.png",
+    "static/media/emotion2.png": "/emotional_diary/static/media/emotion2.9cc3c4790f386b49d3ce.png",
+    "static/media/emotion3.png": "/emotional_diary/static/media/emotion3.cbb24cb66c9812687d00.png",
+    "index.html": "/emotional_diary/index.html",
+    "main.352f02b5.css.map": "/emotional_diary/static/css/main.352f02b5.css.map",
+    "main.8822de0f.js.map": "/emotional_diary/static/js/main.8822de0f.js.map"
   },
   "entrypoints": [
     "static/css/main.352f02b5.css",
-    "static/js/main.798787e9.js"
+    "static/js/main.8822de0f.js"
   ]
 }
